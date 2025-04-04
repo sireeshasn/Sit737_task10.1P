@@ -14,3 +14,9 @@
 {"level":"info","message":"Square root operation: sqrt(16) = 4","service":"enhanced-calculator-microservice"}
 {"level":"info","message":"Incoming Request: GET /modulo?num1=10&num2=3 from ::1","service":"enhanced-calculator-microservice"}
 {"level":"info","message":"Modulo operation: 10 % 3 = 1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Enhanced calculator microservice running on port 3000","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET / from ::1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /modulo?num1=10&num2=3 from ::1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Modulo operation: 10 % 3 = 1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /favicon.ico from ::1","service":"enhanced-calculator-microservice"}
+{"level":"info","message":"Incoming Request: GET /add?num1=10&num2=20 from ::1","service":"enhanced-calculator-microservice"}
